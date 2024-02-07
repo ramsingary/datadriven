@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="VtigerTestSuite" verbose="2">
+
+ 
+   
+	<test name="MarketingSuite">
+	  <parameter name ="browser" value="chrome"></parameter>
+       <parameter name ="username" value="admin"></parameter>
+      <parameter name ="password" value="admin"></parameter>
+  
+		<classes>
+			<class name="com.eva.vtiger.testscripts.InventryInvoiceTestScripts"/>
+			
+		</classes>
+
+	</test>
+
+	
+</suite>

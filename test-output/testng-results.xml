@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-21T16:08:06 IST" name="Default suite" finished-at="2024-01-21T16:08:12 IST" duration-ms="5890">
+    <groups>
+    </groups>
+    <test started-at="2024-01-21T16:08:06 IST" name="Default test" finished-at="2024-01-21T16:08:12 IST" duration-ms="5890">
+      <class name="com.eva.vtiger.testscripts.InventryInvoiceTestScripts">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.eva.vtiger.testscripts.InventryInvoiceTestScripts@ba2f4ec]" started-at="2024-01-21T16:08:06 IST" name="beforeSuite" finished-at="2024-01-21T16:08:06 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTestTag()[pri:0, instance:com.eva.vtiger.testscripts.InventryInvoiceTestScripts@ba2f4ec]" started-at="2024-01-21T16:08:06 IST" name="beforeTestTag" finished-at="2024-01-21T16:08:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestTag -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.eva.vtiger.testscripts.InventryInvoiceTestScripts@ba2f4ec]" started-at="2024-01-21T16:08:06 IST" name="beforeClass" finished-at="2024-01-21T16:08:11 IST" duration-ms="4339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.eva.vtiger.testscripts.InventryInvoiceTestScripts@ba2f4ec]" started-at="2024-01-21T16:08:12 IST" name="afterClass" finished-at="2024-01-21T16:08:12 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTestTag()[pri:0, instance:com.eva.vtiger.testscripts.InventryInvoiceTestScripts@ba2f4ec]" started-at="2024-01-21T16:08:12 IST" name="afterTestTag" finished-at="2024-01-21T16:08:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestTag -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.eva.vtiger.testscripts.InventryInvoiceTestScripts@ba2f4ec]" started-at="2024-01-21T16:08:12 IST" name="afterSuite" finished-at="2024-01-21T16:08:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.eva.vtiger.testscripts.InventryInvoiceTestScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
